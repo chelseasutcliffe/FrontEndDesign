@@ -1,6 +1,14 @@
 .topmenu.menu {
-  box-shadow: none;
-  border: none;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.divider {
+  height: 5px;
+}
+
+.grid {
+  width: 100%;
 }
 
 #Top\ Menu\ Bar {
@@ -12,6 +20,47 @@
   padding-bottom: 10px;
 }
 
+.Bottom.Footer {
+  background: #292929;
+  padding: 50px 50px 50px 50px;
+  color: white;
+}
+
+.three.column.grid {
+  justify-content: space-evenly;
+}
+
+#Wide\ Column {
+  width: 30%!important;
+}
+
+.ui.section.inverted.divider {
+  color: white;
+  border-bottom: 2px solid white!important;
+  margin-top: 0rem;
+}
+
+
+.Social.Tag {
+  align-items: center;
+  padding-top: 1rem;
+  padding-bottom: 1.5rem;
+}
+
+img.ui.fluid.image {
+  padding-top: 15px;
+}
+
 a.right.item {
   padding: 0!important;
+}
+
+#social\ divider {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.Copyright {
+  padding: 10px 10px 10px 10px;
+  text-align: center;
 }
