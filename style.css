@@ -1,0 +1,7 @@
+.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+a.right.item {
+  padding: 0!important;
+}
