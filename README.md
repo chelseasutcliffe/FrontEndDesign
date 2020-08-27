@@ -1,4 +1,7 @@
-# cougarshop
-Assignment 5 - CS 320
+# FrontEndDesign
+CS 320 - Assignment 5
 
-Use semantic UI to develop a homepage based on mockup.png
+Use semantic UI to develop a frontend design based on a mock image. 
+
+Basic Homepage - no backend or links connected.
+
